@@ -386,6 +386,10 @@ textarea {
   color: #9cc;
 }
 
+.listContainer > .row > .col {
+  z-index: -1;
+}
+
 .listH {
   font-weight: 600;
 }
